@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ImgSearch-react/static/css/main.8dcb1a70.chunk.css",
+    "main.js": "/ImgSearch-react/static/js/main.6e0fbd37.chunk.js",
+    "main.js.map": "/ImgSearch-react/static/js/main.6e0fbd37.chunk.js.map",
+    "runtime-main.js": "/ImgSearch-react/static/js/runtime-main.f8a53857.js",
+    "runtime-main.js.map": "/ImgSearch-react/static/js/runtime-main.f8a53857.js.map",
+    "static/js/2.e752a839.chunk.js": "/ImgSearch-react/static/js/2.e752a839.chunk.js",
+    "static/js/2.e752a839.chunk.js.map": "/ImgSearch-react/static/js/2.e752a839.chunk.js.map",
+    "index.html": "/ImgSearch-react/index.html",
+    "precache-manifest.420c7865939efd3d562f5820f64b774b.js": "/ImgSearch-react/precache-manifest.420c7865939efd3d562f5820f64b774b.js",
+    "service-worker.js": "/ImgSearch-react/service-worker.js",
+    "static/css/main.8dcb1a70.chunk.css.map": "/ImgSearch-react/static/css/main.8dcb1a70.chunk.css.map",
+    "static/js/2.e752a839.chunk.js.LICENSE.txt": "/ImgSearch-react/static/js/2.e752a839.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a53857.js",
+    "static/js/2.e752a839.chunk.js",
+    "static/css/main.8dcb1a70.chunk.css",
+    "static/js/main.6e0fbd37.chunk.js"
+  ]
+}
